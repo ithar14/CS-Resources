@@ -2,6 +2,8 @@
 
 [CS 61B : Data Structures](https://sp21.datastructur.es/)
 
+[Physics 91SI : Practical Computing for Scientists](https://web.stanford.edu/class/physics91SI/cgi-bin/?page_id=947)
+
 ## Game Dev
 [CS 148 : Introduction to Computer Graphics and Imaging (Fall 2021)](http://web.stanford.edu/class/cs148/index.html)
 
