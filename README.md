@@ -9,6 +9,9 @@
 ## Game Dev
 [CS 148 : Introduction to Computer Graphics and Imaging (Fall 2021)](http://web.stanford.edu/class/cs148/index.html)
 
+## Web Dev 
+[CS 142 : Web Applications (Winter 2022)](https://web.stanford.edu/class/cs142/index.html)
+
 ## Prototyping
 [CS 147: Introduction to Human-Computer Interaction (Fall 2021)](https://hci.stanford.edu/courses/cs147/2021/wi/index.html)
 
