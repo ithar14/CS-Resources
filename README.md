@@ -20,6 +20,8 @@
 ## ML
 [CS 229 : Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
 
+[Designing Machine Learning](https://designwith.ml)
+
 [CS231n : Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 
